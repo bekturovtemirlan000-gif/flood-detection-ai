@@ -95,7 +95,7 @@ independent imagery before making operational decisions.
 
 Bonafilia, D., Tellman, B., Anderson, T., and Issenberg, E. (2020).
 *Sen1Floods11: A georeferenced dataset to train and test deep learning flood
-algorithms for Sentinel-1*. CVPR Workshops, pp. 210â€“211.
+algorithms for Sentinel-1*. CVPR Workshops, pp. 210–211.
 [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w11/Bonafilia_Sen1Floods11_A_Georeferenced_Dataset_to_Train_and_Test_Deep_Learning_CVPRW_2020_paper.html).
 
 Source: `https://storage.googleapis.com/sen1floods11/v1.1/`.
