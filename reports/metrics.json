@@ -1,0 +1,48 @@
+{
+  "dataset": "https://storage.googleapis.com/sen1floods11/v1.1/",
+  "seed": 42,
+  "chip_counts": {
+    "train": 96,
+    "valid": 24,
+    "test": 48
+  },
+  "training_pixels": 192000,
+  "threshold": 0.2,
+  "validation": {
+    "water_iou": 0.5822639593043152,
+    "water_f1": 0.7359883992558652,
+    "precision": 0.777841408258224,
+    "recall": 0.6984093594929349,
+    "accuracy": 0.9369987844645087,
+    "tp": 478108,
+    "fp": 136552,
+    "fn": 206459,
+    "tn": 4623395
+  },
+  "test": {
+    "water_iou": 0.6204563239218391,
+    "water_f1": 0.765779755692775,
+    "precision": 0.7320687957304798,
+    "recall": 0.802745290210905,
+    "accuracy": 0.9294440078650156,
+    "tp": 1190920,
+    "fp": 435867,
+    "fn": 292639,
+    "tn": 8405792
+  },
+  "all_land_test_baseline": {
+    "water_iou": 0.0,
+    "water_f1": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "accuracy": 0.8563169320008546,
+    "tp": 0,
+    "fp": 0,
+    "fn": 1483559,
+    "tn": 8841659
+  },
+  "test_preview_chip": "India_591317_S1Hand.tif",
+  "python": "3.14.0",
+  "sklearn": "1.9.1",
+  "elapsed_seconds": 54.0
+}

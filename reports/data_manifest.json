@@ -1,0 +1,1016 @@
+{
+  "train": [
+    {
+      "image": "Ghana_144050_S1Hand.tif",
+      "label": "Ghana_144050_LabelHand.tif",
+      "image_sha256": "0dfbfce059a8daf5e77eabd8820912bb145e8748147bfc215421a5b32a2be138",
+      "label_sha256": "4f1afc7c4e1d8e02419835b7df5e8db4005ba24db684b75bf1508daf9d8044d6"
+    },
+    {
+      "image": "India_177319_S1Hand.tif",
+      "label": "India_177319_LabelHand.tif",
+      "image_sha256": "5afa85ff59ab4bd5db9e3eb96f6473724eae5883de2f7ff7dfb777a21a3fdb4b",
+      "label_sha256": "8693a4b3ce9b6e06ac1d281de4fd184ddea8241f30078092db7b311c5fa79113"
+    },
+    {
+      "image": "Mekong_1111068_S1Hand.tif",
+      "label": "Mekong_1111068_LabelHand.tif",
+      "image_sha256": "941757942b80aa513548ebbaf1ea5ba2ade11faafdedb9eecb8ea9ac3a9bd50c",
+      "label_sha256": "f5a3832d5dd82a8cda98748bad2fbcd1a2d213e31b126cd12f9921cb61ce98cc"
+    },
+    {
+      "image": "Nigeria_952958_S1Hand.tif",
+      "label": "Nigeria_952958_LabelHand.tif",
+      "image_sha256": "9a59b1dfed76cb9931af3d9e8aa1361299fd54b58f52c6c3f06055e7c1f660e7",
+      "label_sha256": "f1c8dc26d87e40a4be800f52e5eed855a815f2d1ffeaab476daa7dc729123af9"
+    },
+    {
+      "image": "Pakistan_366265_S1Hand.tif",
+      "label": "Pakistan_366265_LabelHand.tif",
+      "image_sha256": "0d26da2e84017bdd42feb27e2367506fd92d28233d59841302f0a8d9ae4d0218",
+      "label_sha256": "e358cbf9173ffa769e524089db729c1046a77d3e2d90b146b04f72cef52969f5"
+    },
+    {
+      "image": "Paraguay_24341_S1Hand.tif",
+      "label": "Paraguay_24341_LabelHand.tif",
+      "image_sha256": "2fc5cbabe5d22dd02d48b9234acf1a0157bd6cac04858768f507bbbff4e4fdce",
+      "label_sha256": "2a76041cca076bf417ca3735fcc69de63f5cbcaff7f3dee8b9cee776416845fe"
+    },
+    {
+      "image": "Somalia_989553_S1Hand.tif",
+      "label": "Somalia_989553_LabelHand.tif",
+      "image_sha256": "d4fd7fb0d8f4206561ec4bfabb55e552dd4d39a516fcbf822f7827a6e99b8e1f",
+      "label_sha256": "d8710153b07ebfceb858b52e024b171e2ea646911937868264b326c082719037"
+    },
+    {
+      "image": "Spain_716716_S1Hand.tif",
+      "label": "Spain_716716_LabelHand.tif",
+      "image_sha256": "312e11c8ffb3427e30e91190987f7c4cef32707bda241ae409134e8b5b9c2fc7",
+      "label_sha256": "f9d7e45ad83adf69264ab36568a094408869f32b928afb0bfc4f51c5baa0e576"
+    },
+    {
+      "image": "Sri-Lanka_249079_S1Hand.tif",
+      "label": "Sri-Lanka_249079_LabelHand.tif",
+      "image_sha256": "90173590ac020ccebfde43685c564358d25d5cba9927336fea32f9f02a759c1f",
+      "label_sha256": "5156b4c329d851c08cc34d2335a4a2fc0f96398c3136a755693f5c040be1fcba"
+    },
+    {
+      "image": "USA_908474_S1Hand.tif",
+      "label": "USA_908474_LabelHand.tif",
+      "image_sha256": "16721fa86fda8bcc4dac032f2226de689ce658069cd42895dd30793ce2094fbf",
+      "label_sha256": "00bb457aec4f25a2c2bf479092430e0af0ac4f5274f5b64532942b98416df27e"
+    },
+    {
+      "image": "Ghana_146222_S1Hand.tif",
+      "label": "Ghana_146222_LabelHand.tif",
+      "image_sha256": "cd7be3babff5eb3ddf22e5666eb53cad42441583a9a3a658391df6bd04395367",
+      "label_sha256": "ad53caccc98c0c9aa26a013096a1d111cc5a47bbe8c7bc092cc7d608c63de80a"
+    },
+    {
+      "image": "India_73419_S1Hand.tif",
+      "label": "India_73419_LabelHand.tif",
+      "image_sha256": "927b00f697d4ce8edf4cf1bdd86e59e86d3269c34255b947df8ce1029059f684",
+      "label_sha256": "cf45ae87f726ce64f5d51d13be90e3c3a834d067d5b31816a016585263a36bf2"
+    },
+    {
+      "image": "Mekong_1248200_S1Hand.tif",
+      "label": "Mekong_1248200_LabelHand.tif",
+      "image_sha256": "3ec218c9cdfda7e8e6b6b5deff651f4c248105e131779886a559de58c07de785",
+      "label_sha256": "df8a678b6e2bb86caf5297520870206c3efc5f38f27346a2797fed047e1b5980"
+    },
+    {
+      "image": "Nigeria_35845_S1Hand.tif",
+      "label": "Nigeria_35845_LabelHand.tif",
+      "image_sha256": "e6393a8c3a32e0fa0dc66c89be3fce3fd054b4af905ee8574a30225a805dc9fb",
+      "label_sha256": "c61c8bafed9eaa97c515d991c4e402e2dfc9b3cb3823e3d404ceb674db609f7b"
+    },
+    {
+      "image": "Pakistan_65724_S1Hand.tif",
+      "label": "Pakistan_65724_LabelHand.tif",
+      "image_sha256": "20695ac852f1a5d0244382754f3223917130652b96f0a895b12695216ea26d75",
+      "label_sha256": "1b14c7ec457a745793d2d54afef0677700062af574aa65bd77bef3323b6b2b42"
+    },
+    {
+      "image": "Paraguay_822142_S1Hand.tif",
+      "label": "Paraguay_822142_LabelHand.tif",
+      "image_sha256": "24bc0d2d0e01598a2dd74c8a48588054a0eac6332d7a6adc010ec88b354062ca",
+      "label_sha256": "db2853aeda0cd616ebbe5a7bb5152e78425cd5edcf2f6db53d561f99cfd81d71"
+    },
+    {
+      "image": "Somalia_626316_S1Hand.tif",
+      "label": "Somalia_626316_LabelHand.tif",
+      "image_sha256": "16a211c774ebbf373b77eef7300ba9659cfb1ea948507fea5ab3014e5dca919a",
+      "label_sha256": "be0abab03c2d351858f07c831eabd69f329ef3f7e403b06894c5e10eac1922a6"
+    },
+    {
+      "image": "Spain_8104659_S1Hand.tif",
+      "label": "Spain_8104659_LabelHand.tif",
+      "image_sha256": "684478fd76187222acef33e6f2da0912123065a44c283a6a6af7c97e52c88e6f",
+      "label_sha256": "a0ded85574230815d3cea3f0dcd6a568de4f3d7747bc990e636694861856324c"
+    },
+    {
+      "image": "Sri-Lanka_135713_S1Hand.tif",
+      "label": "Sri-Lanka_135713_LabelHand.tif",
+      "image_sha256": "f296d3e4cca319c71e02b76c4f63c8f4b14f7e5b2514e50ebec2aed853cc5c4e",
+      "label_sha256": "13c46800abfc49e319ad58d62f89fb65040b0f4ec88a1cdb6d88aab9a49ef701"
+    },
+    {
+      "image": "USA_211406_S1Hand.tif",
+      "label": "USA_211406_LabelHand.tif",
+      "image_sha256": "48c2ff5364efbbc3b7c10d01b7c59aef12fca28448fb77a4aba4045afeb860ce",
+      "label_sha256": "6a8626d0db91c205380a15658972ff0ccd551a870f9b08f58fb4c7c9cf120c10"
+    },
+    {
+      "image": "Ghana_24858_S1Hand.tif",
+      "label": "Ghana_24858_LabelHand.tif",
+      "image_sha256": "9516e857143c4b2f47ce684dcdcae2471d1b5a2db149658deddce4b6544622e6",
+      "label_sha256": "711e33ff541ccbc9e6fdb8bb7990ccca205bc25d06074b02d391a3fc7bbf47c5"
+    },
+    {
+      "image": "India_774689_S1Hand.tif",
+      "label": "India_774689_LabelHand.tif",
+      "image_sha256": "f0d5171ed0eea8297595db3489015b562d1e120c70806cf226994d4395d585c2",
+      "label_sha256": "e49de9eb03f76dcf673e0facf890ded010376fe8b5165dc7379b3578feb0b2a3"
+    },
+    {
+      "image": "Mekong_774566_S1Hand.tif",
+      "label": "Mekong_774566_LabelHand.tif",
+      "image_sha256": "1f682a591666578a05eed752248e4d135638d8df3576701871ae07a93610faed",
+      "label_sha256": "78b08ce80d3d7d8d32f37913031ff6c01f8b5c481a38223d7191ede86a5f2f5c"
+    },
+    {
+      "image": "Nigeria_600295_S1Hand.tif",
+      "label": "Nigeria_600295_LabelHand.tif",
+      "image_sha256": "e75d4ab8ef74c5724d1df0c15084e27343dc128b2e0577f197c81f7921ecbdc7",
+      "label_sha256": "7bce532830162964a4d0283046affb74c09f2a1ce3ec5a3c32aa4a6fe2fc629f"
+    },
+    {
+      "image": "Pakistan_548910_S1Hand.tif",
+      "label": "Pakistan_548910_LabelHand.tif",
+      "image_sha256": "7664eb8a1694d10c430d7b4111b21e4c9f6cfd95062f70d24800e4060ee49c0a",
+      "label_sha256": "9a474cbe809d600e9b326edc7549cf03eadb2b2e06580828b0eac4b140a57e4d"
+    },
+    {
+      "image": "Paraguay_11869_S1Hand.tif",
+      "label": "Paraguay_11869_LabelHand.tif",
+      "image_sha256": "6fef3ab156f3a6b4834847490cc937f9818ae3eedf9a5c8db5c9d8453b82073a",
+      "label_sha256": "e2ce62acd217b840073aa1ae46ed071caab3aa81355915430070fbe5ecf69d7e"
+    },
+    {
+      "image": "Somalia_371421_S1Hand.tif",
+      "label": "Somalia_371421_LabelHand.tif",
+      "image_sha256": "e0b2817226bd77bc521bd8cbf65db85c0dba5632793b5466e1481c1c92389bff",
+      "label_sha256": "f4f16eb1d1c0b74adc2e105ed35d6a457a5695c87980c6b017084fece1a6b9d5"
+    },
+    {
+      "image": "Spain_2938657_S1Hand.tif",
+      "label": "Spain_2938657_LabelHand.tif",
+      "image_sha256": "b7569420be95719a7695f826df687d4318427af405f05993178775c68c6619f1",
+      "label_sha256": "9d9c2a1bdd688d7665388e8404832908a6b906bcc818f40743bb8ca267f7218f"
+    },
+    {
+      "image": "Sri-Lanka_233609_S1Hand.tif",
+      "label": "Sri-Lanka_233609_LabelHand.tif",
+      "image_sha256": "d37d3b0e556e3f87ac535b9187cfffc39b12d2f9a91ca09a45477dfb66209b98",
+      "label_sha256": "e5ac9397969af55a2bc70c48b8657626aa753ea41a10fe38d20085a18aac380f"
+    },
+    {
+      "image": "USA_655230_S1Hand.tif",
+      "label": "USA_655230_LabelHand.tif",
+      "image_sha256": "8eeddb9a627f678a340eda2f90c76dfd98d773d16ad11688cb1098dabf89a83e",
+      "label_sha256": "f849a5ed3e03be7d318b3ee07d911a107ae33a0cddf04905b14285bac91fc126"
+    },
+    {
+      "image": "Ghana_45911_S1Hand.tif",
+      "label": "Ghana_45911_LabelHand.tif",
+      "image_sha256": "f8ffa315ac8a9cfef0a32ee1d4c4a601d5b4f1033b88329fbefd68c6b48a6364",
+      "label_sha256": "440cbb856f0c045a2ee5f46fdf8db73c76638dee3158ebae1f3ca67384e88152"
+    },
+    {
+      "image": "India_265762_S1Hand.tif",
+      "label": "India_265762_LabelHand.tif",
+      "image_sha256": "602309e9df326715a216e6115c3cb24010d6cf34d65fa974b6eaedf6ecb3c400",
+      "label_sha256": "8e23ff29cae336fafc90d8783b3e3119b2fc02178f0f3433cc3cabec97f46544"
+    },
+    {
+      "image": "Mekong_213094_S1Hand.tif",
+      "label": "Mekong_213094_LabelHand.tif",
+      "image_sha256": "b808fbb37b5e054017fa399cb6508bcd8b1523f6ea46fda3260a69d9ad9d8d37",
+      "label_sha256": "3f20f7ef7f8ee222dd1b8f27458d2e72264c6723ff6d1303f67fc9d9a7dbc33c"
+    },
+    {
+      "image": "Nigeria_143329_S1Hand.tif",
+      "label": "Nigeria_143329_LabelHand.tif",
+      "image_sha256": "5c5c2401e6c0cb4aa964c77863533c3348204a0c050b48ca544c5326c06a0221",
+      "label_sha256": "c6732c47603d03521fe9223b690a3a4cc6c3f719621486de078c495fb05ac4fa"
+    },
+    {
+      "image": "Pakistan_474121_S1Hand.tif",
+      "label": "Pakistan_474121_LabelHand.tif",
+      "image_sha256": "b704e92895184961dcf51122a2c5db8b479c102a448a1b0709fb5bc0b20226c0",
+      "label_sha256": "33bae600a8c46dba840a953e338f9e35f4d29f86948cef7dbc20570a0a4966f7"
+    },
+    {
+      "image": "Paraguay_62897_S1Hand.tif",
+      "label": "Paraguay_62897_LabelHand.tif",
+      "image_sha256": "dd42145c50b35eeb450feaf750c8ae54e53a2e4ca021783098aa306c59d404ba",
+      "label_sha256": "49ef64d194f3c97f01883d36bb8ab45c09d6797a8d21c87132b3d5387b50b473"
+    },
+    {
+      "image": "Somalia_93023_S1Hand.tif",
+      "label": "Somalia_93023_LabelHand.tif",
+      "image_sha256": "6641de4f98e70d97e772a1c28b3ace62aa19d8f645746fd54013134feb4dc8f0",
+      "label_sha256": "a4850f773bd20dbfbb8d6d3322cc30cb0af68cb1ef6eebd631c88e83c0c03577"
+    },
+    {
+      "image": "Spain_6199994_S1Hand.tif",
+      "label": "Spain_6199994_LabelHand.tif",
+      "image_sha256": "2cb90afec094f14676543a7b4301c7f2b3810cb29435e80413c7935f4ff0ef75",
+      "label_sha256": "7e238d4d47fec3842c1807b4e635fb7f8b41b0baa2109bec13db4f002d8dc07c"
+    },
+    {
+      "image": "Sri-Lanka_92824_S1Hand.tif",
+      "label": "Sri-Lanka_92824_LabelHand.tif",
+      "image_sha256": "2d4a0413573de528f1ac13159de8054e433ba41acaa9a12f4daa3a3376675ede",
+      "label_sha256": "c6733b27e5698e5584ed6a439c3aeaf286435a8f64d5c9f22f4a57a2bfb92341"
+    },
+    {
+      "image": "USA_788696_S1Hand.tif",
+      "label": "USA_788696_LabelHand.tif",
+      "image_sha256": "a4351b3598abdbcf73383e2df4064a80e14445c2205cebee6e7abd56d2a96530",
+      "label_sha256": "98aa3115cb7db55962b88210fd2ce20e5284ff138fc230807d37644a9b9c6b86"
+    },
+    {
+      "image": "Ghana_154838_S1Hand.tif",
+      "label": "Ghana_154838_LabelHand.tif",
+      "image_sha256": "268a439ca5601acbb48029f41bc3eb382724a95d76b02b6b33c67c7393028847",
+      "label_sha256": "168c862179560c67f9da3dcac6f85d6bd5669a32ac7d4ce41bf40f2c71414901"
+    },
+    {
+      "image": "India_56450_S1Hand.tif",
+      "label": "India_56450_LabelHand.tif",
+      "image_sha256": "22d6ebd641bf53dac257316be74c96afb548bbbe75adf764daf1827bdfed4832",
+      "label_sha256": "e4b2731993bd93966c4f67f5b68652c22b96f357eaa6ab6cfc4fbda8e892bc60"
+    },
+    {
+      "image": "Mekong_221789_S1Hand.tif",
+      "label": "Mekong_221789_LabelHand.tif",
+      "image_sha256": "cd471fbd9b56deb10fed00f12f8fc70e86e405e98b2702adf684cc6288e7987b",
+      "label_sha256": "8dc056d9f4da55b049e5c446f72cf19175d67a4350a816540e8778c399b566e1"
+    },
+    {
+      "image": "Nigeria_81933_S1Hand.tif",
+      "label": "Nigeria_81933_LabelHand.tif",
+      "image_sha256": "7684c67d11d84c768ecbc104a85f99f949a6dfdf3ec3658352fa4715ef335ecb",
+      "label_sha256": "8fe9baed81ffb296a200641df99a59cb9f52443333810887aa9b4a6dc944dff8"
+    },
+    {
+      "image": "Pakistan_35915_S1Hand.tif",
+      "label": "Pakistan_35915_LabelHand.tif",
+      "image_sha256": "cddd6c5fc9b83db5dfaa044dd276f7670a7c4b0e96c2483c8266aa46f50de5a3",
+      "label_sha256": "7dda33f8301ef2e86426f79af678c0b4389823f8e96579cb8476efe242e5f16e"
+    },
+    {
+      "image": "Paraguay_792268_S1Hand.tif",
+      "label": "Paraguay_792268_LabelHand.tif",
+      "image_sha256": "0973990e56c1284bc274e4b799ea87f167ac0484ac4e6777ac716373e92d56c4",
+      "label_sha256": "cfafdb06fe66f965ef2198a3d08ea4b9b215d18320713ea14c9641d8cf6b9403"
+    },
+    {
+      "image": "Somalia_230192_S1Hand.tif",
+      "label": "Somalia_230192_LabelHand.tif",
+      "image_sha256": "979fe51cf64caa09a6a80f484873b7456e6d2a7e60a856b801893563f5fd18ea",
+      "label_sha256": "d82ce2935011ace3453038bd41f5965e964a7a3a81df384a156999b757f8faab"
+    },
+    {
+      "image": "Spain_5678382_S1Hand.tif",
+      "label": "Spain_5678382_LabelHand.tif",
+      "image_sha256": "e832d73f0b27c498c6d8aa7f9302b4aca44d1321a21127a8683b8f23e3af87b1",
+      "label_sha256": "6c5ffc5511375306f2ca60a82c4a3ae0f0fea77e9f969e0978f8dad9bff343e9"
+    },
+    {
+      "image": "Sri-Lanka_579082_S1Hand.tif",
+      "label": "Sri-Lanka_579082_LabelHand.tif",
+      "image_sha256": "d72ae9c300826740d9cbef1a35eb02cd018e6ab1102cc0f8d509fdefb4687afc",
+      "label_sha256": "651cef75b1fe8ce7eeef7cb57143284fbe86c8fa7a7b1e7d400b90ec31a5635a"
+    },
+    {
+      "image": "USA_231124_S1Hand.tif",
+      "label": "USA_231124_LabelHand.tif",
+      "image_sha256": "16aa90d3723a6d0e8d8f1665da730c1d7721138850697b23a2c378e6acf71ea1",
+      "label_sha256": "913d7c8fcb0dc9eb87d95cff202eb0f67a64256f3347a9d12a2db550f05f43fc"
+    },
+    {
+      "image": "Ghana_147015_S1Hand.tif",
+      "label": "Ghana_147015_LabelHand.tif",
+      "image_sha256": "0c0b1786cf1a9253a0410be894b7fe7682e51c2ba80d7bb0445e3ffdbd3b96a6",
+      "label_sha256": "5927fb8fc09632d0eca51ddf3c71a55533a3120930919302fc15b7c4afaebc25"
+    },
+    {
+      "image": "India_979278_S1Hand.tif",
+      "label": "India_979278_LabelHand.tif",
+      "image_sha256": "2a6457391987f87dbb39037f1d3270f20bca2e39453050bd4a5256fc203415f8",
+      "label_sha256": "aaf6ebc78c6cc70d6e7d7427a5c97fe7d046286b7c804fdb3e16e0d20aa658b5"
+    },
+    {
+      "image": "Mekong_52610_S1Hand.tif",
+      "label": "Mekong_52610_LabelHand.tif",
+      "image_sha256": "d0eff70dd549f914a09f10c29f50184f8d5998ceef16a655bda5fa46d61dd91e",
+      "label_sha256": "8de5c120a4552916eee7a24e9d83fcc9aabc7299a8d7812b54677c198bcc899d"
+    },
+    {
+      "image": "Nigeria_707067_S1Hand.tif",
+      "label": "Nigeria_707067_LabelHand.tif",
+      "image_sha256": "4c6cbdebd9dbb47dbd38eba116c11d16ebc0f77c6aca8175acf91f62c1cbdeee",
+      "label_sha256": "89a36972a4efa30b0a8488af035e07e350ef4a1453402ed603717d66884c482f"
+    },
+    {
+      "image": "Pakistan_712873_S1Hand.tif",
+      "label": "Pakistan_712873_LabelHand.tif",
+      "image_sha256": "5076271e52c8d21c7d2d4995da0a51f1a96e36210aa76f7fe81ce727009d3ad4",
+      "label_sha256": "3455ab827f86c34b658261986b64c8b4e8c29a510a1b0ec838c45c2562c3181f"
+    },
+    {
+      "image": "Paraguay_1029042_S1Hand.tif",
+      "label": "Paraguay_1029042_LabelHand.tif",
+      "image_sha256": "df0cb030e5a674075d675022da8e4e1faa147e51117222dfa7cfa5af4f56dc8b",
+      "label_sha256": "9764f11187564c4533da437a572b0a60a53ce2c1d8fb456d0e833bf75ae7f68a"
+    },
+    {
+      "image": "Somalia_1087508_S1Hand.tif",
+      "label": "Somalia_1087508_LabelHand.tif",
+      "image_sha256": "d7bd14c7c0f9a4e5cad68c1a98ef9ad7f42657ff662cc8d7b960d1e85311dc6f",
+      "label_sha256": "869ec4bb24f5216b2092e6c8bb8a6a88a18244294212a4053d12771adf3741ee"
+    },
+    {
+      "image": "Spain_4915752_S1Hand.tif",
+      "label": "Spain_4915752_LabelHand.tif",
+      "image_sha256": "cf322631076f9400f23b0559e0eaca362d2d52c6a4e8b7ee0cc3d74fbbba9600",
+      "label_sha256": "12af333d480bd7f901ae89af3b70abf4fb572ab90a53f52b931de72cd5f93beb"
+    },
+    {
+      "image": "Sri-Lanka_748447_S1Hand.tif",
+      "label": "Sri-Lanka_748447_LabelHand.tif",
+      "image_sha256": "8b2e190ea77c5397431fc61d40300597de7c9eaa2a172df29d007fcae482bf47",
+      "label_sha256": "6431039e80e39d8c3cb066c242aaec4db4904f7b4e46721af317c37c52e9d909"
+    },
+    {
+      "image": "USA_770353_S1Hand.tif",
+      "label": "USA_770353_LabelHand.tif",
+      "image_sha256": "ca66089030d2ad59dfb71185f2198220f69594b219857cdbf282dd810d6c4989",
+      "label_sha256": "6904486e6c260900372a299e5e5e5a08b7f498b653097091963a53de47f06fb6"
+    },
+    {
+      "image": "Ghana_83200_S1Hand.tif",
+      "label": "Ghana_83200_LabelHand.tif",
+      "image_sha256": "d0e2d33df5338bffd7031723ee37ec51dff23433154b5fa1fd6fab1d445a707b",
+      "label_sha256": "b4b73b8e2c1729a1bd37bdaeb640d421ddb15814e4d41d6ac818e88d57d89781"
+    },
+    {
+      "image": "India_287642_S1Hand.tif",
+      "label": "India_287642_LabelHand.tif",
+      "image_sha256": "77e7343fbe818c3be93f3732d2f057ebdfc1aa202245a59ae30aaaf38594154a",
+      "label_sha256": "6d474034646815470b0327d82be233ae8a359081d0cc53e48b2fc204c8588f25"
+    },
+    {
+      "image": "Mekong_16233_S1Hand.tif",
+      "label": "Mekong_16233_LabelHand.tif",
+      "image_sha256": "f57b1198ece71528f677764275eecbc9e2bc1267b64905e08a326c0b600457c7",
+      "label_sha256": "fee52121a2abbd1e1f57f67927122530bf18b7eb336da7ecb2c137f5875f7102"
+    },
+    {
+      "image": "Nigeria_78061_S1Hand.tif",
+      "label": "Nigeria_78061_LabelHand.tif",
+      "image_sha256": "f1fdde9f45625c8eacfbae4d75ed0413223b89ea548fe77b7bb0b1eca014dc0c",
+      "label_sha256": "7ee3d569c47828220be55b4a5f759c3c6813923d02f376ac13d1351a7e9c7681"
+    },
+    {
+      "image": "Pakistan_1036366_S1Hand.tif",
+      "label": "Pakistan_1036366_LabelHand.tif",
+      "image_sha256": "041bad2aa8ce0de3c4b1ea0be1231a1c5fbc3a13231ed5cb74897874f8a97ac6",
+      "label_sha256": "b58e0956f6d9464aa6ef99f5e7368e4f8af4a3afb29d0c30b19a9438527f18d1"
+    },
+    {
+      "image": "Paraguay_470303_S1Hand.tif",
+      "label": "Paraguay_470303_LabelHand.tif",
+      "image_sha256": "ea4decd7db7243e29da0d0180af071c1bea7d1716b66c3eb233f0dd153e055fe",
+      "label_sha256": "7430fe62c9d724354f067f015c2f41803f7ccd48190f12a04d731f6ccf96710b"
+    },
+    {
+      "image": "Somalia_205466_S1Hand.tif",
+      "label": "Somalia_205466_LabelHand.tif",
+      "image_sha256": "d1b3cf439a76b4c489953c5283118fe035ee250b0aa9303206fd62296cf398d6",
+      "label_sha256": "b3c232a970749d02bfc2c4d55cb414981ef1cab233a36cc1e4a1acdb6b359746"
+    },
+    {
+      "image": "Spain_5923267_S1Hand.tif",
+      "label": "Spain_5923267_LabelHand.tif",
+      "image_sha256": "99c9ebecbff3b3e83f4bf093bbc86b7e5c9a8af3d7309f4710b7c44591306d42",
+      "label_sha256": "0aecbc8c0cf4a8172ad090df1ae05c0df428926985afe9cd7764071d9a0273c9"
+    },
+    {
+      "image": "Sri-Lanka_120804_S1Hand.tif",
+      "label": "Sri-Lanka_120804_LabelHand.tif",
+      "image_sha256": "d8709db16979c4204636298bd58caa3061b629e3acacc514dbeb59f0d345b1f2",
+      "label_sha256": "6de1d3b06e5c3bc4c451c49577311b82a397c014147b48b66577492a11cfdfb4"
+    },
+    {
+      "image": "USA_652955_S1Hand.tif",
+      "label": "USA_652955_LabelHand.tif",
+      "image_sha256": "ae16776354106c0544212dc810a85626c0b1fa988043e7ba01bb044cf9e4f5cb",
+      "label_sha256": "3d40e98df00c30de3f84b577479c103750d64c5080f3aff7bc70178c798f2755"
+    },
+    {
+      "image": "Ghana_11745_S1Hand.tif",
+      "label": "Ghana_11745_LabelHand.tif",
+      "image_sha256": "44e9e683f90b7b31eebf179ad431f0728285fe8e4ab6d03964422549f8364d01",
+      "label_sha256": "070f09094d54abd3c52ffe2fd9d2ac0351f8d8199aa7c98f4d7ce44f3059a564"
+    },
+    {
+      "image": "India_273873_S1Hand.tif",
+      "label": "India_273873_LabelHand.tif",
+      "image_sha256": "77c63db8985f36f4f22db169d63ead884c72920f782e7eefac695863753d4367",
+      "label_sha256": "f5e434ef3403dedf717c8345a8301a2687f2cd2a043825087f66f2a98ca2a642"
+    },
+    {
+      "image": "Mekong_1396181_S1Hand.tif",
+      "label": "Mekong_1396181_LabelHand.tif",
+      "image_sha256": "c773065e29000e3d76d1f1c3909480e73d1aa23d856c3541b593f7ddca759538",
+      "label_sha256": "3cba6ca75f2c277d5e681437ebd8da0e45707e37b82c026b3bc799791ca16438"
+    },
+    {
+      "image": "Nigeria_439488_S1Hand.tif",
+      "label": "Nigeria_439488_LabelHand.tif",
+      "image_sha256": "29a76cfbc4cb6e21e80c652d579aa5ce67612653f6485de1256657c2ea184f90",
+      "label_sha256": "7c53908b2fdb14bf24bdadceaf1f7b4ccea127f74cb0c4517400114c0d6bf462"
+    },
+    {
+      "image": "Pakistan_211386_S1Hand.tif",
+      "label": "Pakistan_211386_LabelHand.tif",
+      "image_sha256": "a0ca911ebb29e32b83d82651ab147390f68cf4f79a3d8901d127c25109fd63a8",
+      "label_sha256": "7d68fbaf729b2e9187a0ccb55c7d3ee79f78c8663035657471d4e3792d15007e"
+    },
+    {
+      "image": "Paraguay_215904_S1Hand.tif",
+      "label": "Paraguay_215904_LabelHand.tif",
+      "image_sha256": "b8878803d0f4fd7900adbbda0b7b2af97edb66cfead1a3327227f223f0019ade",
+      "label_sha256": "f067766c8d132ce6b3bd7059eabb83e351743bfd298ff85e5c31b308fe162862"
+    },
+    {
+      "image": "Somalia_992457_S1Hand.tif",
+      "label": "Somalia_992457_LabelHand.tif",
+      "image_sha256": "2a3844dc63d5bd1b0b30435f1710484392131d530d82c05a4cdb954a4a0f0533",
+      "label_sha256": "b9a0b112894754c34911b05e55fdff1e2671c3af0ec083eeae6f8542d6f2d2d9"
+    },
+    {
+      "image": "Spain_2594119_S1Hand.tif",
+      "label": "Spain_2594119_LabelHand.tif",
+      "image_sha256": "73b5c385f0ee42f28b3670809992ff9dc9735d12abe45120b8fbdc1dbfb9e62a",
+      "label_sha256": "8acda7a66c4690cd299c23e70ee552bbbb91b6f1619a333d7cd86b3aaa305241"
+    },
+    {
+      "image": "Sri-Lanka_52223_S1Hand.tif",
+      "label": "Sri-Lanka_52223_LabelHand.tif",
+      "image_sha256": "2211ec83f984875db15335755e7946d34ad3f214ec7424ec1e5fdfea411e3416",
+      "label_sha256": "27ffee924916f7f3773ebe59dd444713d051ef9bf8b84e62eeef60ad8df3afe9"
+    },
+    {
+      "image": "USA_347609_S1Hand.tif",
+      "label": "USA_347609_LabelHand.tif",
+      "image_sha256": "a6c6413ad36a58a31e66bbd6daa347c92e15ca254622567528d187ef420f2ebb",
+      "label_sha256": "ff819302e1387a029cf6bc8e5af9731cc96c1ec373367e72e95c57e5a3dd30cb"
+    },
+    {
+      "image": "Ghana_168875_S1Hand.tif",
+      "label": "Ghana_168875_LabelHand.tif",
+      "image_sha256": "13aa61ee7a49a556fc53b514c909b49514a5ced3309ce14e5ad09707c51622d8",
+      "label_sha256": "d2a87b6253fe66402894c36d4cf148eedff7db853233d10c79074fbee38b563e"
+    },
+    {
+      "image": "India_391908_S1Hand.tif",
+      "label": "India_391908_LabelHand.tif",
+      "image_sha256": "0eb7787d56e12aa2ff643a1e7304f2b18ae68cf883c58cd0951511f74293403f",
+      "label_sha256": "547d7e34df00f22ef62e27078633fecff658df04dbf6938b51792c907b8c1c86"
+    },
+    {
+      "image": "Mekong_922373_S1Hand.tif",
+      "label": "Mekong_922373_LabelHand.tif",
+      "image_sha256": "5f1d95207eded9ad5f860ec8bce509fda825a56cc941cd371640525bddf2f4ed",
+      "label_sha256": "d008695c4d5a31bd8a11820139223be5b41298a1548a41f5b0faadc51be09f01"
+    },
+    {
+      "image": "Nigeria_529525_S1Hand.tif",
+      "label": "Nigeria_529525_LabelHand.tif",
+      "image_sha256": "22e11a7b67eccc9660c42c80cfa894183bea6117ab87b69e0bc93af95a462f8a",
+      "label_sha256": "8a64830e6d1558ec6af8b52b6f4b1fe0ef8920d7f317cfdd8b37bac40f9e8fc9"
+    },
+    {
+      "image": "Pakistan_667363_S1Hand.tif",
+      "label": "Pakistan_667363_LabelHand.tif",
+      "image_sha256": "81899146de5ca067421189f54252b457dd3478085956a8a2ba3f0297952b0909",
+      "label_sha256": "631c2037fe06c4248f223d26e57279d786095838aa2aa902ea9f9eeade6c05cc"
+    },
+    {
+      "image": "Paraguay_12870_S1Hand.tif",
+      "label": "Paraguay_12870_LabelHand.tif",
+      "image_sha256": "a4b4640dd54162c22fc57a438c7a569139d4a803cb9bddd4f22815c2d0a59f8a",
+      "label_sha256": "8f73d16b6e7e09c8646dea8cfed8506ec0cd9a081936ce3d78b2ee1b431e783d"
+    },
+    {
+      "image": "Somalia_32375_S1Hand.tif",
+      "label": "Somalia_32375_LabelHand.tif",
+      "image_sha256": "5e44aba5c1779146c62c01733f2ba80a378e6c70098fa3e1db10b79ce83cbb13",
+      "label_sha256": "a0a51b4c1d5d2db1b5cb13575ef942dc73d912c50a4bf98596e37cd6c170273c"
+    },
+    {
+      "image": "Spain_1167260_S1Hand.tif",
+      "label": "Spain_1167260_LabelHand.tif",
+      "image_sha256": "e838194f1f60dca63e111ce7df7f2705a6f76779fe4bc5b6181dc224e80d1f01",
+      "label_sha256": "7fb2d9b5f65885b57b0f7a2e2ac02e3342ece255d3e2a6f6cb10645937f6f6e3"
+    },
+    {
+      "image": "Sri-Lanka_916628_S1Hand.tif",
+      "label": "Sri-Lanka_916628_LabelHand.tif",
+      "image_sha256": "6de3bfa843b009deb47a8ec2c67b13967c894d6fb10657ecfa0a2757425709a0",
+      "label_sha256": "d291d76c1f5d363099ef56be9b86aad15fbf0909242bc897c2457b73e7554d91"
+    },
+    {
+      "image": "USA_348639_S1Hand.tif",
+      "label": "USA_348639_LabelHand.tif",
+      "image_sha256": "4805178b0d5f241ecb1b8f60c2e37827b9ef7e663444518dcddf6bfd4d48d429",
+      "label_sha256": "e01b9b158bf0b6b71cd62874a092a7ed9ac8702e381f344f89fc80d6ed0d3dfd"
+    },
+    {
+      "image": "Ghana_187318_S1Hand.tif",
+      "label": "Ghana_187318_LabelHand.tif",
+      "image_sha256": "6de6e08127d187deeff5ed092ddb3cecb3f3b3bb28e09ed81390612b6f1808ec",
+      "label_sha256": "0097bc8b715f103c3f3d142028bc5d90e0b3a4b31dc4ece4493a706b836620ce"
+    },
+    {
+      "image": "India_59460_S1Hand.tif",
+      "label": "India_59460_LabelHand.tif",
+      "image_sha256": "83456b355e9ec267de8543a677deb8c2f2b1a7241a7b910d77c473324aa16f53",
+      "label_sha256": "e2e59c851ec18a8e73975f46779a0a4b186741830478b67474ad10fb5c2f9409"
+    },
+    {
+      "image": "Mekong_119477_S1Hand.tif",
+      "label": "Mekong_119477_LabelHand.tif",
+      "image_sha256": "ecd01674f580dc4b5c5ad5ab05aed2b45606982f5ea5bd67f6043d7ac5625f3d",
+      "label_sha256": "79f8ee17455cb29225e1d21b5ff03861f55371ef0f9a84cc3452aa00550bbeff"
+    },
+    {
+      "image": "Nigeria_598959_S1Hand.tif",
+      "label": "Nigeria_598959_LabelHand.tif",
+      "image_sha256": "39a419e2dd295104346f44220c6d0f70adf32b9501af9a781364cdebb89ee8ff",
+      "label_sha256": "286acf57009d5ffc94e535306f0f7ffd01ee65a3060f9a702fdd21db16dd58a9"
+    },
+    {
+      "image": "Pakistan_246718_S1Hand.tif",
+      "label": "Pakistan_246718_LabelHand.tif",
+      "image_sha256": "2a51f1002309826e90aa96d51dd8a570b1617677cfe04b4e549fd877f942624f",
+      "label_sha256": "ccb3aff350660460b4916565cd5de3451e398bf5d2f28e59b98c5761a2ba63e7"
+    },
+    {
+      "image": "Paraguay_36146_S1Hand.tif",
+      "label": "Paraguay_36146_LabelHand.tif",
+      "image_sha256": "877a767fb0265eb72342d4faf55957628ac85d1e1e27598fcbba4b9bb53741ce",
+      "label_sha256": "8b9c700ae61bf96232f73e0268e9f79339c53bb921e3f0455bad484feb4973ec"
+    }
+  ],
+  "valid": [
+    {
+      "image": "Ghana_1033830_S1Hand.tif",
+      "label": "Ghana_1033830_LabelHand.tif",
+      "image_sha256": "c47102e1159481bfc0c5e97795d371224991930c85e9bdb11654cf72a6c1d683",
+      "label_sha256": "dd9a3431971bbff8204a37dcb8699c23e896e3d2e48dda5fd0abeccfb50f8d13"
+    },
+    {
+      "image": "India_764946_S1Hand.tif",
+      "label": "India_764946_LabelHand.tif",
+      "image_sha256": "282a63b437f0a13227286526e70bca3b58d8df15706bb230e68eda9bf743ac6b",
+      "label_sha256": "742636e8efd4181a2486ddcff7f04f3b5abe75dcb1c3ed1d64bd6d74736b202b"
+    },
+    {
+      "image": "Mekong_474783_S1Hand.tif",
+      "label": "Mekong_474783_LabelHand.tif",
+      "image_sha256": "d5b1c2fb7785b5cb15812a678797c715503f543d78e88e4ecfce8d1e687a1b7e",
+      "label_sha256": "d03f23fad4401e78eac8fc1f14a0cb658406701388173e0c04e16182cb8f01cb"
+    },
+    {
+      "image": "Nigeria_31096_S1Hand.tif",
+      "label": "Nigeria_31096_LabelHand.tif",
+      "image_sha256": "928f806af7f3713ffce13c152f09713ab25198b646902ea0fe4e780a8ab70350",
+      "label_sha256": "c8da655114d488f6097de39492da9e27f065feef58764c70ef5d7b8683ae8542"
+    },
+    {
+      "image": "Pakistan_1027214_S1Hand.tif",
+      "label": "Pakistan_1027214_LabelHand.tif",
+      "image_sha256": "d25c7fdbb58c7cd849c38e56ace6cfb7856de06084cb7fd7fe5f5d3882c5a0b0",
+      "label_sha256": "82f1a0c7677d4b14ebda580884a6e8e854c2bf00ba5f470c439456e3da2c1902"
+    },
+    {
+      "image": "Paraguay_305760_S1Hand.tif",
+      "label": "Paraguay_305760_LabelHand.tif",
+      "image_sha256": "ff60d990884d9ac12ab66c6604a4a9b33d7829e9a9a1d332142cdd048ab042f8",
+      "label_sha256": "fcb5f3b21ae74bd8275226d843d6254a982448b7669f43dbff6fea44647db24a"
+    },
+    {
+      "image": "Somalia_61368_S1Hand.tif",
+      "label": "Somalia_61368_LabelHand.tif",
+      "image_sha256": "1ce941d0f72f0b91af713ff3f765efe406fb5e972b4f0f1f59223ceb1526a302",
+      "label_sha256": "bdb83743884abbae005be9f1384549ee7ffa045cb6e2ddf1620ba3340ab80329"
+    },
+    {
+      "image": "Spain_7604243_S1Hand.tif",
+      "label": "Spain_7604243_LabelHand.tif",
+      "image_sha256": "af77bed29b4085b1b43f9a3cc874959e8e75822c415e6fb1e389e042b80c4106",
+      "label_sha256": "709272968fee9480d15b645683817fe91307f96ec489e4f27c9f4af2993c85f5"
+    },
+    {
+      "image": "Sri-Lanka_101973_S1Hand.tif",
+      "label": "Sri-Lanka_101973_LabelHand.tif",
+      "image_sha256": "77329977963ce9a59e8fbb3aaf9b30f511f14e08c5b619f62bf5f269d0e050bd",
+      "label_sha256": "afb7a8c1f08662a43a99a0ce424ed90d179fc650e63bf2c059283f1eab03c73b"
+    },
+    {
+      "image": "USA_366607_S1Hand.tif",
+      "label": "USA_366607_LabelHand.tif",
+      "image_sha256": "4c80b2b60bade0ddab30cf2ada71cfec90c24239007fff0c826cc509ee5f8bb9",
+      "label_sha256": "7490cae2e305ab13fcc5f7313ec5397dc8ae7d6afca9df7a647b1fa3aea1e3c8"
+    },
+    {
+      "image": "Ghana_895194_S1Hand.tif",
+      "label": "Ghana_895194_LabelHand.tif",
+      "image_sha256": "24f1e61b6d7c3a77b6f42c7277098cb08e88b59c568a6e024e1496a044b07361",
+      "label_sha256": "833b291c4a59c6320eb7df30f916b3a862de3381583969da5c42f790e0b8657f"
+    },
+    {
+      "image": "India_1050276_S1Hand.tif",
+      "label": "India_1050276_LabelHand.tif",
+      "image_sha256": "14a6d3889427e4b3e4a2b13fbc664cbc9bc84c33a3f2a63553b67cc0743bb73f",
+      "label_sha256": "b0f21694aa0a1e5a48ccc4f66e12f5a8b3f16e606164e6cafd789b6aed121ba9"
+    },
+    {
+      "image": "Mekong_293769_S1Hand.tif",
+      "label": "Mekong_293769_LabelHand.tif",
+      "image_sha256": "2b691deda91cdf630f7f4ab3a38d1c75d9a4d45d3d267eec5e65c794033b078b",
+      "label_sha256": "629304ae517b2c7dd0dc6cb8dd72d5943b4a2943965bd782a7b309f28077ef73"
+    },
+    {
+      "image": "Nigeria_820924_S1Hand.tif",
+      "label": "Nigeria_820924_LabelHand.tif",
+      "image_sha256": "7a5db514a309659ea39791d37cb9b6f91b78ef50f0daa889553dd7fb0cf456b5",
+      "label_sha256": "26f9574ba9d28df0c180330f8f7590ccb45b5a9fe6c3a188fd0628f2a3d09fb9"
+    },
+    {
+      "image": "Pakistan_94095_S1Hand.tif",
+      "label": "Pakistan_94095_LabelHand.tif",
+      "image_sha256": "fedab3bff2b96ff9415adec75344f6b266f525a173000f11d402532fb1057a22",
+      "label_sha256": "70cdedcdf3dbd61fd1fa8088927d5ee4e8d7188cb8fc2f91d3c0b787ecbdb2b9"
+    },
+    {
+      "image": "Paraguay_153941_S1Hand.tif",
+      "label": "Paraguay_153941_LabelHand.tif",
+      "image_sha256": "9cc081d571ade8d13d41b2d4487779298aa301c86c6f5b7033d450663a517cb0",
+      "label_sha256": "21e2dee799bf465fbdfc0b61f61135100d9aeb4a969847bfbd48462340d7a4d9"
+    },
+    {
+      "image": "Somalia_256539_S1Hand.tif",
+      "label": "Somalia_256539_LabelHand.tif",
+      "image_sha256": "238b2bef77b188a07d3936436eec4b86386244ebdd199bed379d7107dc75c762",
+      "label_sha256": "86c4e983ebd968057527e651594b6bc2a89ea51a7fe052de5248dc4aabcf652b"
+    },
+    {
+      "image": "Spain_1199913_S1Hand.tif",
+      "label": "Spain_1199913_LabelHand.tif",
+      "image_sha256": "343e99bb775af47d2fb690d04c1c71c56c751f179c13aa56c84992fd4e6b740f",
+      "label_sha256": "27fedadf6819805196eb1061a21e11ccb7ba26648a2424917b9de3174d45f2e0"
+    },
+    {
+      "image": "Sri-Lanka_63307_S1Hand.tif",
+      "label": "Sri-Lanka_63307_LabelHand.tif",
+      "image_sha256": "caa985dacb05953f9002882ba5eff587c9f6ef694d9e7778dd5f577dca5b5a9b",
+      "label_sha256": "372471dcbcc9cb8c2b8e824c94621ac1d4cf95824f3bd48b6f4b127bee3cfdd8"
+    },
+    {
+      "image": "USA_986268_S1Hand.tif",
+      "label": "USA_986268_LabelHand.tif",
+      "image_sha256": "2f75f17a39d094bafb477d6f9ab865c7fcbae8b85e72dfb64868d9524f1f6659",
+      "label_sha256": "e4030956397c76ecdb9ace37bbacd65f6f34cce3e35466b4808b7ec8dfc09087"
+    },
+    {
+      "image": "Ghana_277_S1Hand.tif",
+      "label": "Ghana_277_LabelHand.tif",
+      "image_sha256": "0e34787b874ed3622b6c3250cee1c2dc15802083e80e5daf2230a51e989967aa",
+      "label_sha256": "7678fde87af67235a305a14773f6a8e78fb9ddebb3b86bb49833bb53e3bc15c0"
+    },
+    {
+      "image": "India_533192_S1Hand.tif",
+      "label": "India_533192_LabelHand.tif",
+      "image_sha256": "0df236173f0f1900b0c081459d6ec2de9f82261ddd3be1af4f254863621fc863",
+      "label_sha256": "388c0f230d67add9a6bcc7e4fa7e1be06a443511f5a5718eb2b7d29469e88678"
+    },
+    {
+      "image": "Mekong_1413877_S1Hand.tif",
+      "label": "Mekong_1413877_LabelHand.tif",
+      "image_sha256": "eff3ae4d82f730563e6dc310e0d7df1e2e7a6f9d515dd48b89e12e64cfa5d915",
+      "label_sha256": "d128c72dd6406ddb8212c895c9eda567a503c39577a5ecf2a942a6ac47956d18"
+    },
+    {
+      "image": "Nigeria_984831_S1Hand.tif",
+      "label": "Nigeria_984831_LabelHand.tif",
+      "image_sha256": "019c0744b70cb3b95aabf91dcdcbdf638bbf76623a0273e17033f58b27a9a64e",
+      "label_sha256": "99ac70c34aaca2ce48a157f247ef35e7eb1c57af3a58d5f6236e74b3156eed94"
+    }
+  ],
+  "test": [
+    {
+      "image": "Ghana_83483_S1Hand.tif",
+      "label": "Ghana_83483_LabelHand.tif",
+      "image_sha256": "affd4371d4806abad4fa259298be31c35efdeca18e9aadac3222d7a088215ee7",
+      "label_sha256": "59cfc6cdee9743ec3f8a8fa60dc91df774fa6641eab1b8dda6f56383c180d3e7"
+    },
+    {
+      "image": "India_591317_S1Hand.tif",
+      "label": "India_591317_LabelHand.tif",
+      "image_sha256": "53374c3e29255f1400339f7b32dc6145032eac613e3c808f840203cd7ea4c139",
+      "label_sha256": "6f5f4c7a34bae3b62348af93b642b2e6e420c9a2d77a857145b46fda8348873a"
+    },
+    {
+      "image": "Mekong_1443339_S1Hand.tif",
+      "label": "Mekong_1443339_LabelHand.tif",
+      "image_sha256": "cee6ea28c9f700f7d04b16f036fe504e0e836eab9f1b00420fe332366c985ab3",
+      "label_sha256": "e306812aaf1587c46f9b2a0c63e4af4fe46ac9fd46a9e6286dd41d70f824454e"
+    },
+    {
+      "image": "Nigeria_417184_S1Hand.tif",
+      "label": "Nigeria_417184_LabelHand.tif",
+      "image_sha256": "99b58fdcad3b27e09a0bb672246cf59f58e1c7e211d290e45485c5321995d7dc",
+      "label_sha256": "f0d0acbdd9483dfa0873dc6baf577e9f97b4e07f12c6d5de5088ec675976e6a4"
+    },
+    {
+      "image": "Pakistan_70625_S1Hand.tif",
+      "label": "Pakistan_70625_LabelHand.tif",
+      "image_sha256": "34d44eba0a84c57ce202905a55998d5172432eeb72106f3c469edb6c660648f6",
+      "label_sha256": "ffccb829cb5d0315e83dc6953ace2f72a7900eac6b49a5613348007651cd8199"
+    },
+    {
+      "image": "Paraguay_913449_S1Hand.tif",
+      "label": "Paraguay_913449_LabelHand.tif",
+      "image_sha256": "d574270d0876e440adfac65762f76a32e67ddcb2508b381480e806e81df3833b",
+      "label_sha256": "7292d7566b46869ea95132a2b0d623f9f47c5de3144f1158b7e46191f90efeb9"
+    },
+    {
+      "image": "Somalia_685158_S1Hand.tif",
+      "label": "Somalia_685158_LabelHand.tif",
+      "image_sha256": "352c7eee098e572232ddcd7694f2197d8ff261f6262a2a69ac7868b1ee758e70",
+      "label_sha256": "9a7bed202008b4ac9525d07c98c3d3882a9f1f121125df5b6c150731c9d6ff3a"
+    },
+    {
+      "image": "Spain_5650136_S1Hand.tif",
+      "label": "Spain_5650136_LabelHand.tif",
+      "image_sha256": "d751a06ea72de3a2b7b4bd4d79513a0c29c5ff88d09e0ab2b6e79cd7af5cf5e3",
+      "label_sha256": "c0a53cf82bd45a0fb9b7f1c2e9408e9dd817c06a633045fce88b017b7aa990b5"
+    },
+    {
+      "image": "Sri-Lanka_849649_S1Hand.tif",
+      "label": "Sri-Lanka_849649_LabelHand.tif",
+      "image_sha256": "9aa55561560a85970619498fc5cac412af8bac8a15405ba7f040bc8cf5bf6b29",
+      "label_sha256": "ac0b446a87a65133501745c04d8a9d58ad689f1c2d45bc55cb07378586c61e96"
+    },
+    {
+      "image": "USA_933610_S1Hand.tif",
+      "label": "USA_933610_LabelHand.tif",
+      "image_sha256": "401c1f7fdad3bc0af494cb66d30e2388d06b8f7003d5fd4f9f3b9626063f22b1",
+      "label_sha256": "735d2e7d32e52f49d42ec9a21aaa4d1b675bb3ec955c7f49c9750aff8fb2cd31"
+    },
+    {
+      "image": "Ghana_1078550_S1Hand.tif",
+      "label": "Ghana_1078550_LabelHand.tif",
+      "image_sha256": "8ce880a2236c57b3a4ef9b6c575648d21813e8a10bab2c7bc82cb1fee197e027",
+      "label_sha256": "a4cdde6d206b3e151171f37cf8a287d6ded59a3d6da5a848a5cc79b38772d111"
+    },
+    {
+      "image": "India_900498_S1Hand.tif",
+      "label": "India_900498_LabelHand.tif",
+      "image_sha256": "83bc6bca280cb51264028515c944928ea2201386bee411d8bb5cabbcb51cc4a6",
+      "label_sha256": "b39f6854a1fd5ef262de184064b2fafd59da2314131e7b25ab792a76b27559c1"
+    },
+    {
+      "image": "Mekong_382276_S1Hand.tif",
+      "label": "Mekong_382276_LabelHand.tif",
+      "image_sha256": "a0a63fe99584a50541d1baab2745803133aff5a8b33992bf25cd1d75711aa3cb",
+      "label_sha256": "9ff60aa49161aec241227fd6e9fed2c89a6f22ec839ef9dbf76268d399996631"
+    },
+    {
+      "image": "Nigeria_22088_S1Hand.tif",
+      "label": "Nigeria_22088_LabelHand.tif",
+      "image_sha256": "7674eafc5f76181b40561bb870eabd07b7904384dc7e193158c52584b745db4f",
+      "label_sha256": "464255f3f16e174990246f7fb563190271aa0c4f577f16963de752af7ba07034"
+    },
+    {
+      "image": "Pakistan_664885_S1Hand.tif",
+      "label": "Pakistan_664885_LabelHand.tif",
+      "image_sha256": "e5c39467d3f1672fa280077d4a8157d1df6cc41b1d91e0fafee457e2858e310f",
+      "label_sha256": "1aa975e13dac53e1f6c5116fed47090604f0158dda85e75d8afda5b3e4262e99"
+    },
+    {
+      "image": "Paraguay_651904_S1Hand.tif",
+      "label": "Paraguay_651904_LabelHand.tif",
+      "image_sha256": "0b2635e40584ea1f016f4ffc503748afcd2431cf9330db63eacf900c15eed30c",
+      "label_sha256": "44d1514eeef21b3a0c04aa0fa7c1c49ef780f4c4835c734bfa2db172b455d289"
+    },
+    {
+      "image": "Somalia_60129_S1Hand.tif",
+      "label": "Somalia_60129_LabelHand.tif",
+      "image_sha256": "d3a90e8b4af8b13bfcfd0025bd73b2b1f6cf6b6ee3d577f317184ca5fb4231a8",
+      "label_sha256": "ce9430585089b9f1e4130152d6b3862747082db37963b0890d86ce1930e71ebc"
+    },
+    {
+      "image": "Spain_6860600_S1Hand.tif",
+      "label": "Spain_6860600_LabelHand.tif",
+      "image_sha256": "5ffd422a0375aa9113e078d7481643355aa9109dbaa459e03b659c0bde503787",
+      "label_sha256": "ebf990071fcaa4f20a86d141b4cb25df0ce9a310178740b697dde22b4af4ea7b"
+    },
+    {
+      "image": "Sri-Lanka_1049830_S1Hand.tif",
+      "label": "Sri-Lanka_1049830_LabelHand.tif",
+      "image_sha256": "e82f3c2780d62a5651c62446ad24920c9833e4a9f0f0704fe465ebb7ea75e53a",
+      "label_sha256": "c805545a4b7f69133ad24be229dafaa463f8970e03ea6da22d4a47e587881544"
+    },
+    {
+      "image": "USA_595451_S1Hand.tif",
+      "label": "USA_595451_LabelHand.tif",
+      "image_sha256": "abb67dbb9d5fd92443e5acd117996b9a0ccfbd95326aedea02aeb9a354a65d01",
+      "label_sha256": "5bd0328de97ba3435661ef47a313d96541234fb21240bba5e9f8c65f19b5317d"
+    },
+    {
+      "image": "Ghana_167233_S1Hand.tif",
+      "label": "Ghana_167233_LabelHand.tif",
+      "image_sha256": "81d91cd92dd2f11818d01d93390a8462ed19912d3a0b4a618e536ef1b7217923",
+      "label_sha256": "a34117d8a069fe9ddbaf4d6144301ca966da316fc977dc47aa2e4794d71f9dda"
+    },
+    {
+      "image": "India_79637_S1Hand.tif",
+      "label": "India_79637_LabelHand.tif",
+      "image_sha256": "550231c166d2592eeffb50e26cee6197c7adbd74cb6b84269843d0a268b5ca55",
+      "label_sha256": "8e33736ec8e68d7dddf9eb4e45bdd2533e929e0e2c1300dbbc74546b1dbb293d"
+    },
+    {
+      "image": "Mekong_254910_S1Hand.tif",
+      "label": "Mekong_254910_LabelHand.tif",
+      "image_sha256": "143aed56655704da0f27412dccf63cafc78f95719995f405b9021c14dea0bf26",
+      "label_sha256": "6bc5cf165f540b5a0c437a30c75e5ec3b561980d9ddb94ee135a97cb491db8f2"
+    },
+    {
+      "image": "Nigeria_225131_S1Hand.tif",
+      "label": "Nigeria_225131_LabelHand.tif",
+      "image_sha256": "6d8f6e99ef4a43c090384c662aeecae669faebbdd440465d38692eea3de50d1e",
+      "label_sha256": "872b6b4373286b9b9d31e80bd9c607f93e983b1bbb6cff78fdcf18a162433c95"
+    },
+    {
+      "image": "Pakistan_528249_S1Hand.tif",
+      "label": "Pakistan_528249_LabelHand.tif",
+      "image_sha256": "b12a55ded38df04c960d9c2f6256eef5ae40c7e46360624a85041f21f7068ede",
+      "label_sha256": "f1517de67af03fe9997448a04a16bd6e7f129707ba0e05b383216eecf3c09292"
+    },
+    {
+      "image": "Paraguay_271769_S1Hand.tif",
+      "label": "Paraguay_271769_LabelHand.tif",
+      "image_sha256": "a8d1f64cc7d9f07e7c6250907c8061c9a4ca1f6a7e603e8fd4d6325eabb7dc84",
+      "label_sha256": "c14f99ad696048e5aec9dcec37d106061d1ee189e56c730cbfee02ba172d6932"
+    },
+    {
+      "image": "Somalia_166342_S1Hand.tif",
+      "label": "Somalia_166342_LabelHand.tif",
+      "image_sha256": "f6ad2e32d1bfd1d2e5684733bb4baf648b960257d5b210309a9b12ae12f94632",
+      "label_sha256": "f9020a92cb30e2975bd5b5bbad99c1c9708adc4cfd4892e6f161c5190cf826f4"
+    },
+    {
+      "image": "Spain_7558720_S1Hand.tif",
+      "label": "Spain_7558720_LabelHand.tif",
+      "image_sha256": "1a1d590745a4337683534636f85d005400d9b81dd21d1c8cc768e663dce5ec91",
+      "label_sha256": "718ea7b5fec00b009700659fd06fb6c2d49caafbcea7c2aee01c7c16cc518fc9"
+    },
+    {
+      "image": "Sri-Lanka_534068_S1Hand.tif",
+      "label": "Sri-Lanka_534068_LabelHand.tif",
+      "image_sha256": "ae5d25f74fe6c996adf86862a59448b62bb44a4c6440240515e8d664053784ed",
+      "label_sha256": "e77e5e64025852b82ab5f8624ed126e866a6fff9c661635313aab9276522ad4b"
+    },
+    {
+      "image": "USA_758178_S1Hand.tif",
+      "label": "USA_758178_LabelHand.tif",
+      "image_sha256": "b54323b62f6490f8a7286f3bdf77a7e1b1b659d2c90412112f78bf4a3ac917df",
+      "label_sha256": "8daf6af1a5c780086106a9ae18c69e25433ec0527fe8e6ccd0fa382bb0a9b00c"
+    },
+    {
+      "image": "Ghana_319168_S1Hand.tif",
+      "label": "Ghana_319168_LabelHand.tif",
+      "image_sha256": "d503a6f14f4ad6c65f4799172d3cd698aaf03303ad7afb97903b2c45da6815ec",
+      "label_sha256": "da46da70d9b18f8851a58c3868a4a4b6262ebfa4433ff9306feaa101b634f33e"
+    },
+    {
+      "image": "India_772630_S1Hand.tif",
+      "label": "India_772630_LabelHand.tif",
+      "image_sha256": "277541a0d4bc7167b968964dba85f2b92d7a9c8591bc1a03b7e8b45ff6377dfc",
+      "label_sha256": "0c50650a37be41a29aeeacf5de3fd39109d3dc99e4ef3136e15f19834d8ff21c"
+    },
+    {
+      "image": "Mekong_424793_S1Hand.tif",
+      "label": "Mekong_424793_LabelHand.tif",
+      "image_sha256": "a75c863aba464e9e6a39e5a72a602d3afc079e95a798eedf4c061b23be87a435",
+      "label_sha256": "b0dbcf26ae252bf3b08bee0c21e1e5db1ddaa24e930ce1fa4962cb57970178ef"
+    },
+    {
+      "image": "Nigeria_812045_S1Hand.tif",
+      "label": "Nigeria_812045_LabelHand.tif",
+      "image_sha256": "60721c48b1bc862abdb9e6b0ee93d67590fb058f4581e43f615569b22beff4e0",
+      "label_sha256": "77386f8586a6a825430b11d74619fd39391f2c5d3fc2fc93d829bc15f4933308"
+    },
+    {
+      "image": "Pakistan_849790_S1Hand.tif",
+      "label": "Pakistan_849790_LabelHand.tif",
+      "image_sha256": "ff1f7b9afce78918808ced5d648d4df28a2047a05f934f649e728bad38533007",
+      "label_sha256": "669bcd99f5cedcf37db82c7eff7dc0c20036588eb1462321cf8fecf727945586"
+    },
+    {
+      "image": "Paraguay_59731_S1Hand.tif",
+      "label": "Paraguay_59731_LabelHand.tif",
+      "image_sha256": "a724267ba9655b00f593852b31d5887234297884cd3bd097ff878aa41767001a",
+      "label_sha256": "1f925e6c6582254f7fbf8a70c0af3b999a25049643501799b676122d783ded18"
+    },
+    {
+      "image": "Somalia_94102_S1Hand.tif",
+      "label": "Somalia_94102_LabelHand.tif",
+      "image_sha256": "18bf3d89d33e83e7323775fca71974dda3e610e2a68095f81fb06b38a2fd972e",
+      "label_sha256": "5177ba119333f3d31a94c18f113bfe593925286dacbbb86780ff664b0ca49681"
+    },
+    {
+      "image": "Spain_6095801_S1Hand.tif",
+      "label": "Spain_6095801_LabelHand.tif",
+      "image_sha256": "c15ceaa0f70d1ea23cc378251244f61307e6857f7503ff9c673db126a82496c9",
+      "label_sha256": "f0c9a7ad9c7049ca43363580eb8c6849812b51bb8095901fcc2796400817f512"
+    },
+    {
+      "image": "Sri-Lanka_450918_S1Hand.tif",
+      "label": "Sri-Lanka_450918_LabelHand.tif",
+      "image_sha256": "e16e21f19409fae3daa3b4bc7c4c2932e1733a86a5207f20fb417180c312af95",
+      "label_sha256": "3c8072f419372cae4c475772227e3520da35cb61738e86917f561224724b566a"
+    },
+    {
+      "image": "USA_504150_S1Hand.tif",
+      "label": "USA_504150_LabelHand.tif",
+      "image_sha256": "e1072a4a217074bc10194920b958c9074c7aa68e674616d998f3ccfac058c2bc",
+      "label_sha256": "e7a244d3a2a20b39cd8d57ae26103a931321baa34583c74b70c9870dd19018fa"
+    },
+    {
+      "image": "Ghana_97059_S1Hand.tif",
+      "label": "Ghana_97059_LabelHand.tif",
+      "image_sha256": "9a5a69c8e48e75cdacab88616517ac537962616f36bfba450ce00b057a74f2b2",
+      "label_sha256": "0763674773d153069073b7674ff5cc438144c53d2b5bee6447a1c6004e03c8fd"
+    },
+    {
+      "image": "India_570384_S1Hand.tif",
+      "label": "India_570384_LabelHand.tif",
+      "image_sha256": "7bc4c1a73f6e6631cd1c9a715a7a8db0790e9442cc5172c04f6832626f6bdd42",
+      "label_sha256": "15345107b9bef08c30951b22fe5240758bfbff1873daf55b6ff7c4ff9c83e96b"
+    },
+    {
+      "image": "Mekong_333434_S1Hand.tif",
+      "label": "Mekong_333434_LabelHand.tif",
+      "image_sha256": "abed88cdb40aa823a3255ea53fdee7afd8ccabdb3e2045734b89c4756bf3a325",
+      "label_sha256": "1719be41e6a0ac8b224c7d460d7ca1605433b42774d886966929f0c1f02b19c4"
+    },
+    {
+      "image": "Pakistan_167553_S1Hand.tif",
+      "label": "Pakistan_167553_LabelHand.tif",
+      "image_sha256": "412d8b25b478d7e34e70394ba2ceebfdb983575b0d10179702d936e50d993dd7",
+      "label_sha256": "7284487345eded3bdafa305ce08a9ca15106131f89cd1c7f2633f245c845bed6"
+    },
+    {
+      "image": "Paraguay_868895_S1Hand.tif",
+      "label": "Paraguay_868895_LabelHand.tif",
+      "image_sha256": "6dee78da18dc8b35a706160fe08eb7a937ef66562809978bcbe32ee4bf604327",
+      "label_sha256": "c4da12e7aa9eb2a42f3594c9744f63322b2ea6cdb0ce17963bfb114452e5d3c1"
+    },
+    {
+      "image": "Somalia_699062_S1Hand.tif",
+      "label": "Somalia_699062_LabelHand.tif",
+      "image_sha256": "c905fcba8efe764f1c91d9b1fb061da12b797c645ad33b80befb575dc00a5d38",
+      "label_sha256": "9864be374d11bd6855a909c946ce09cddb4aff3f7ef211092f5d9a75a79d893f"
+    },
+    {
+      "image": "Spain_7370579_S1Hand.tif",
+      "label": "Spain_7370579_LabelHand.tif",
+      "image_sha256": "6c24bf791372da5e93450195eac8d676a7ef917884dfb479dafe4a565543b19a",
+      "label_sha256": "b81224e01540b262faffd82cb42762c3c77df2ba084a5fb82d49bae421dd12d4"
+    },
+    {
+      "image": "Sri-Lanka_713926_S1Hand.tif",
+      "label": "Sri-Lanka_713926_LabelHand.tif",
+      "image_sha256": "8d51be4c5e9a9bb87ae95b69ae2ba10a59ac30d84056b6d65d5cbc44af2e515d",
+      "label_sha256": "b07e813683173d668958cb456048d9904ac9f7ed9e5c8d4791d93cdec04412cc"
+    }
+  ]
+}
