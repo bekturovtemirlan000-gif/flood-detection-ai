@@ -1,0 +1,26 @@
+{
+  "trial": 100,
+  "completed_at": "2026-10-27T18:25:41.318084+00:00",
+  "success": true,
+  "configuration": {
+    "max_leaf_nodes": 63,
+    "max_iter": 1000,
+    "learning_rate": 0.035,
+    "l2_regularization": 5.0,
+    "random_state": 142,
+    "sample_pixels": 2000000
+  },
+  "metrics": {
+    "water_iou": 0.6158008421879432,
+    "water_f1": 0.7622236925611353,
+    "precision": 0.8092207121968003,
+    "recall": 0.7203859210291227,
+    "accuracy": 0.948811046511628,
+    "tp": 28224,
+    "fp": 6654,
+    "fn": 10955,
+    "tn": 298167
+  },
+  "threshold": 0.32500000000000007,
+  "seconds": 98.34230279922485
+}

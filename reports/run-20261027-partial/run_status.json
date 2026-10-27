@@ -1,0 +1,32 @@
+{
+  "started_at": "2026-10-27T17:14:36.616825+00:00",
+  "deadline_utc": "2026-10-27T22:14:36.616816+00:00",
+  "hours": 5.0,
+  "status": "failed",
+  "completed_trials": 182,
+  "threads": 4,
+  "train_pixels": 3001892,
+  "valid_pixels": 344000,
+  "chip_counts": {
+    "train": 252,
+    "valid": 89,
+    "test": 90
+  },
+  "current_trial": 183,
+  "configuration": {
+    "max_leaf_nodes": 31,
+    "max_iter": 600,
+    "learning_rate": 0.06,
+    "l2_regularization": 5.0,
+    "random_state": 225,
+    "sample_pixels": 750000
+  },
+  "best_validation_iou": 0.6158008421879432,
+  "updated_at": "2026-10-27T19:17:48.811165+00:00",
+  "consecutive_failures": 0,
+  "error": "PermissionError [WinError 5] while atomically replacing status.tmp with status.json; the exact source of the Windows access denial is unknown.",
+  "finished_at": "2026-10-27T19:17:48.879728+00:00",
+  "actual_elapsed_seconds": 7392.262903,
+  "training_restarted": false,
+  "evaluation_note": "Saved checkpoint evaluated after training failure; no additional model fitting."
+}

@@ -4,3 +4,4 @@ data/
 outputs/
 *.tmp
 .pytest_cache/
+runs/

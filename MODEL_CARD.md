@@ -1,5 +1,10 @@
 # Model card: Sentinel-1 water baseline
 
+An additional, separately named checkpoint from an **interrupted extended run**
+is documented in [its run report](reports/run-20261027-partial/README.md).
+The metrics below describe the original baseline only; the default artifact is
+unchanged.
+
 ## Intended use and outputs
 
 Research and education: delineate surface water in two-band Sentinel-1 VV/VH dB

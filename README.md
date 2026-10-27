@@ -76,9 +76,59 @@ The counts are capped at the number of available images. Training regenerates th
 model and reports. `reports/data_manifest.json` records exact selected filenames
 and SHA-256 checksums. `reports/metrics.json` records scores and configuration.
 
+## Five-hour training run
+
+```bash
+python train_long.py --hours 5 --run runs/my-five-hour-run
+```
+
+Use a new output directory for each run. This CPU search uses all official training
+and validation chips, up to 12,000 sampled pixels per training chip, and a fixed
+4,000-pixel-per-chip validation sample for model selection. It explores tree size,
+boosting iterations, learning rate, regularization and training sample size. It
+compares against the published baseline on the same validation sample, saves
+improving checkpoints atomically, and leaves the published model untouched.
+
+The wall-clock budget includes data preparation and reserves three minutes for
+full validation and one-time test evaluation of the selected checkpoint. Each
+trial has a 15-minute cap and is terminated at the training deadline if needed.
+If final evaluation exceeds the remaining budget, the saved checkpoint remains
+usable and status reports incomplete evaluation. Preparation failures abort the
+run. Hyperparameter search can overfit validation data; more runtime does not
+guarantee better held-out results.
+
+Inspect `status.json`, `trials.jsonl`, `worker.log`, `best_model.joblib`, and
+`final_metrics.json` inside the run folder. Windows runs temporarily request that
+the machine stay awake while the supervisor is alive; closing the lid or shutting
+down can still interrupt training. This does not modify persistent power settings.
+
 ## Results
 
 See [measured metrics](reports/metrics.json) and [model card](MODEL_CARD.md).
+
+### Interrupted extended run (October 27–28, 2026)
+
+The requested five-hour search **stopped early after 2h 03m 12s and 182 completed
+trials**, when Windows denied an atomic status-file replacement. Training was not
+restarted. The best saved checkpoint is published separately as
+[`models/water_model_20261027_partial.joblib`](models/water_model_20261027_partial.joblib).
+The original baseline remains the default. See the
+[extended-run report](reports/run-20261027-partial/README.md) for evaluation and provenance.
+
+```bash
+python flood.py path/to/sentinel1.tif --model models/water_model_20261027_partial.joblib --output outputs/water.tif
+```
+
+The best checkpoint improved water IoU from 59.41% to 61.58% on the **same sampled
+validation set**; this is a model-selection result, not evidence of test-set
+improvement. The selected checkpoint was evaluated after the interruption without
+further fitting. A bounded retry for transient Windows file-access errors has
+since been added to the training code, with regression tests.
+
+To display the original local run's progress in a browser, run `python monitor.py`
+and open `http://127.0.0.1:8765`. The monitor is read-only, Windows-specific, and
+expects the original `runs/five-hour-20261027` directory; run data are not included
+in a fresh clone. Published results are available in the report above.
 
 ![Held-out test image: radar, ground truth and model output](reports/test_preview.png)
 
