@@ -1,11 +1,13 @@
 """Read-only localhost dashboard for the current training run."""
 import ctypes
+import argparse
 import json
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 RUN = ROOT / 'runs/five-hour-20261027'
+LOG = ROOT / 'outputs/five-hour-training.log'
 
 
 def read_json(name):
@@ -35,7 +37,7 @@ def snapshot():
                 trials.append(json.loads(line))
             except json.JSONDecodeError:
                 pass  # A record may be mid-write.
-    log = ROOT / 'outputs/five-hour-training.log'
+    log = LOG
     return {'state': state, 'alive': alive, 'trials': trials,
             'baseline': read_json('baseline_validation.json'),
             'final': read_json('final_metrics.json'),
@@ -92,5 +94,11 @@ class Handler(BaseHTTPRequestHandler):
 
 
 if __name__ == '__main__':
-    print('Training dashboard: http://127.0.0.1:8765', flush=True)
-    ThreadingHTTPServer(('127.0.0.1', 8765), Handler).serve_forever()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--run', type=Path, default=RUN)
+    parser.add_argument('--log', type=Path, default=LOG)
+    parser.add_argument('--port', type=int, default=8765)
+    args = parser.parse_args()
+    RUN, LOG = args.run.resolve(), args.log.resolve()
+    print(f'Training dashboard: http://127.0.0.1:{args.port}', flush=True)
+    ThreadingHTTPServer(('127.0.0.1', args.port), Handler).serve_forever()

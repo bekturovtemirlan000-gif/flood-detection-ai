@@ -10,7 +10,9 @@ import rasterio
 from scipy.ndimage import uniform_filter
 
 
-def features(path):
+def features(path, version='v1'):
+    if version not in ('v1', 'v2'):
+        raise ValueError('Unknown feature version: ' + version)
     with rasterio.open(path) as src:
         if src.count != 2:
             raise ValueError('Expected exactly two Sentinel-1 bands: VV then VH, in dB.')
@@ -19,7 +21,7 @@ def features(path):
         profile = src.profile.copy()
     a = np.where(valid[None], np.clip(a, -50, 10), 0)
     bands = [a[0], a[1], a[0] - a[1]]
-    for size in (3, 7):
+    for size in ((3, 7) if version == 'v1' else (3, 7, 15, 31)):
         weight = uniform_filter(valid.astype('float32'), size=size)
         for band in a:
             mean = uniform_filter(band, size=size) / np.maximum(weight, 1e-6)
@@ -36,7 +38,7 @@ def probability(model, x):
 
 
 def infer(bundle, path):
-    x, valid, profile = features(path)
+    x, valid, profile = features(path, bundle.get('feature_version', 'v1'))
     p = probability(bundle['model'], x).reshape(valid.shape)
     return p, valid, profile
 

@@ -1,0 +1,5 @@
+{
+  "baseline": "models/water_model_20261027_partial.joblib",
+  "feature_version": "v2",
+  "sampling_seed": 42
+}

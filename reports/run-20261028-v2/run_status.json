@@ -1,0 +1,32 @@
+{
+  "started_at": "2026-10-28T15:59:26.985365+00:00",
+  "deadline_utc": "2026-10-28T20:59:26.985354+00:00",
+  "hours": 5.0,
+  "status": "completed",
+  "completed_trials": 265,
+  "threads": 4,
+  "train_pixels": 3001892,
+  "valid_pixels": 344000,
+  "chip_counts": {
+    "train": 252,
+    "valid": 89,
+    "test": 90
+  },
+  "feature_version": "v2",
+  "current_trial": 266,
+  "configuration": {
+    "max_leaf_nodes": 31,
+    "max_iter": 300,
+    "learning_rate": 0.07,
+    "l2_regularization": 5.0,
+    "random_state": 308,
+    "sample_pixels": 2000000,
+    "class_weight": null,
+    "min_samples_leaf": 20
+  },
+  "best_validation_iou": 0.6406868363573452,
+  "updated_at": "2026-10-28T20:19:27.270446+00:00",
+  "consecutive_failures": 0,
+  "finished_at": "2026-10-28T20:38:37.391809+00:00",
+  "actual_elapsed_seconds": 16750.406444
+}

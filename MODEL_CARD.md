@@ -1,5 +1,9 @@
 # Model card: Sentinel-1 water baseline
 
+The completed **V2 improvement run** has a separate
+[model and evaluation report](reports/run-20261028-v2/README.md). Its matched
+90-chip test comparison improves water IoU/F1 with slightly lower precision.
+
 An additional, separately named checkpoint from an **interrupted extended run**
 is documented in [its run report](reports/run-20261027-partial/README.md).
 The metrics below describe the original baseline only; the default artifact is

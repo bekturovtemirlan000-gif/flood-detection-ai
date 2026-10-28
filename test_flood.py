@@ -82,6 +82,22 @@ class FloodTests(unittest.TestCase):
     def test_empty_valid_pixel_set(self):
         self.assertEqual(probability(SimpleModel(), np.empty((0, 11))).size, 0)
 
+    def test_wider_features_preserve_baseline_columns(self):
+        rng = np.random.default_rng(42)
+        a = rng.normal(-15, 4, (2, 40, 40))
+        a[:, 0, 0] = np.nan
+        path = self.raster('context.tif', a)
+        original, valid, _ = features(path, 'v1')
+        wider, valid2, _ = features(path, 'v2')
+        self.assertEqual(wider.shape, (1600, 19))
+        np.testing.assert_array_equal(valid, valid2)
+        np.testing.assert_array_equal(original, wider[:, :11])
+        self.assertTrue(np.isfinite(wider).all())
+
+    def test_unknown_feature_version_rejected(self):
+        with self.assertRaisesRegex(ValueError, 'feature version'):
+            features('unused.tif', 'bad')
+
 
 if __name__ == '__main__':
     unittest.main()

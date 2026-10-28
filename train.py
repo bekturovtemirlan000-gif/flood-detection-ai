@@ -66,8 +66,8 @@ def fetch_pair(row):
         download(BASE + f'data/flood_events/HandLabeled/{layer}/{name}', DATA / name)
 
 
-def read_pair(row):
-    x, valid, profile = features(DATA / row[0])
+def read_pair(row, feature_version='v1'):
+    x, valid, profile = features(DATA / row[0], feature_version)
     with rasterio.open(DATA / row[1]) as src:
         y = src.read(1)
         assert (src.transform.almost_equals(profile['transform'], precision=1e-10)
